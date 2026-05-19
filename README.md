@@ -4,8 +4,6 @@
 
 I'm a Computer Science graduate building toward a career in data analytics. I focus on writing clean SQL, building dashboards that non-technical people can actually use, and reconciling numbers across reporting tools so the data tells the same story everywhere.
 
-Currently pursuing the **Microsoft PL-300 (Power BI Data Analyst Associate)** certification.
-
 ---
 
 ## 🛠️ Tech Stack

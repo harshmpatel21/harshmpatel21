@@ -27,8 +27,3 @@ End-to-end analytics project on a 3,900-customer retail dataset, built across **
 
 ---
 
-## 📫 Get in touch
-
-- 💼 [LinkedIn](www.linkedin.com/in/harsh-patel-5a4990258)
-
-
